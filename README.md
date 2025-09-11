@@ -1,5 +1,5 @@
 # Enzo Corsico
-I'm Enzo from France, living near Mulhouse. I'm currently in my first year of study as a web developer. I really enjoy learning new languages and frameworks like NextJS and NestJS.
+I'm Enzo from France, living near Mulhouse. I'm currently in my second year of a master's program. Most of my personal and work projects are built with TypeScript and NextJS, which has led me to specialize in these technologies. I am passionate about learning new languages and frameworks, and I regularly work on personal projects to improve my skills.
 
 <!--
 **enzocorsico/enzocorsico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
